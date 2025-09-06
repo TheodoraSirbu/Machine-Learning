@@ -12,6 +12,7 @@ Câmpuri și tipuri de valori: <br>
 •	*UnitPrice*:  Specifică prețul per unitate pentru fiecare produs achiziționat. Acest câmp poate fi utilizat pentru a calcula veniturile generate de fiecare tranzacție. <br>
 •	*CustomerID*:  Reprezintă ID-ul unic al fiecărui client care a plasat comanda. Acest câmp facilitează analiza comportamentului individual al clienților și segmentarea lor în funcție de obiceiurile de cumpărare. <br>
 •	*Country*: Indică țara de origine a comenzii. Acest câmp este util pentru analiza piețelor internaționale și identificarea celor mai active regiuni în vânzările online. <br><br>
+
 Scopul analizei acestui set de date este să ofere informații practice și valoroase pentru îmbunătățirea strategiei de vânzare și pentru ghidarea deciziilor de afaceri. În acest context, următoarele aspecte sunt vizate în detaliu:<br>
 **1. Distribuția prețurilor unitare**: Analiza distribuției prețurilor unitare ajută la înțelegerea poziționării produselor în funcție de costuri. <br>
 **2. Distribuția prețurilor unitare (interval 0-20)**: Analiza distribuției prețurilor unitare ajută la înțelegerea poziționării produselor în funcție de costuri. <br>
