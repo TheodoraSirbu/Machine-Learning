@@ -1,31 +1,21 @@
-📌 Descriere proiect
+📌 Project Description
+The project focuses on classifying butterfly images using both traditional machine learning methods and convolutional neural networks (CNNs), including a model built from scratch and a pre-trained model (MobileNetV2).
 
-Proiectul urmărește clasificarea imaginilor de fluturi utilizând atât metode tradiționale de învățare automată, cât și rețele neuronale convoluționale (CNN), incluzând un model construit de la zero și un model pre-antrenat (MobileNetV2).
+📂 Dataset Split
+The dataset was divided into 80% for training, 10% for validation, and 10% for testing, using stratification to maintain class proportions. Data loading and augmentation were performed using ImageDataGenerator.
 
-📂 Împărțirea setului de date
+⚙️ Data Preprocessing
+Images were resized to standard dimensions (180x180 or 224x224 pixels). Augmentation techniques such as rotations, zoom, and horizontal flipping were applied. For MobileNetV2, the model-specific preprocessing function was also used.
 
-Setul de date a fost împărțit în 80% pentru antrenare, 10% pentru validare și 10% pentru testare, folosind stratificarea pentru păstrarea proporțiilor claselor. Încărcarea și augmentarea datelor s-au realizat prin ImageDataGenerator.
+🤖 Methods Used
+🔹 CNN from scratch – network with convolutional, pooling, normalization, and dense layers.
+🔹 Random Forest – trained on feature vectors extracted from images.
+🔹 Pre-trained CNN (MobileNetV2) – used as a feature extractor and fine-tuned.
 
-⚙️ Prelucrarea datelor
+📊 Results
+Model performance on the test set was as follows:
+🔹 Simple CNN – 73% accuracy
+🔹 Random Forest – 31% accuracy
+🔹 Pre-trained CNN (MobileNetV2) – 88% accuracy
 
-Imaginile au fost redimensionate la dimensiuni standard (180x180 sau 224x224 pixeli). S-au aplicat tehnici de augmentare, precum rotații, zoom și flip orizontal. Pentru MobileNetV2 s-a utilizat și funcția de preprocesare specifică modelului.
-
-🤖 Metode folosite
-
-🔹	CNN construit de la zero – rețea cu straturi convoluționale, pooling, normalizare și dense.
-
-🔹	Random Forest – antrenat pe vectori de caracteristici extrase din imagini.
-
-🔹 CNN pre-antrenat (MobileNetV2) – folosit ca extractor de caracteristici și ajustat prin fine-tuning.
-
-📊 Rezultate
-
-Performanța modelelor pe setul de test a fost următoarea:
-
-🔹 CNN Simplu – acuratețe de 73%
-
-🔹 Random Forest – acuratețe de 31%
-
-🔹 CNN pre-antrenat (MobileNetV2) – acuratețe de 88%
-
-Modelul MobileNetV2 a obținut cele mai bune rezultate, confirmând eficiența utilizării transfer learning-ului în clasificarea imaginilor.
+The MobileNetV2 model achieved the best results, confirming the effectiveness of transfer learning in image classification.
