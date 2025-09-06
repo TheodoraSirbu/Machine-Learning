@@ -1,13 +1,13 @@
-Mini Machine Learning Projects:
+# Mini Machine Learning Projects:
 
-Cancer Data – Learning and training a model to detect cancer types
+🔹  **Cancer Data** – Learning and training a model to detect cancer types
 
-Deep Learning – Classifying butterfly species – learning and training
+🔹  **Deep Learning – Classifying butterfly species** – learning and training
 
-E-commerce Data – Actual transactions from a UK retailer – analyzing e-commerce data
+🔹  **E-commerce Data – Actual transactions from a UK retailer** – analyzing e-commerce data
 
-Supervised Learning – Classification – Titanic survival rate
+🔹  **Supervised Learning – Classification** – Titanic survival rate
 
-Supervised Learning – Regression – Insurance.csv
+🔹  **Supervised Learning – Regression** – Insurance.csv
 
-Unsupervised Learning – Clustering – Mall_Customers.csv
+🔹  **Unsupervised Learning – Clustering** – Mall_Customers.csv
