@@ -26,4 +26,4 @@ Scopul analizei acestui set de date este să ofere informații practice și valo
 **11.	Distribuția spike-urilor pe zilele săptămânii**: Această analiză arată în ce zile ale săptămânii apar cele mai multe spike-uri. <br>
 **12.	Distribuția spike-urilor pe ore**:  Acest grafic analizează la ce ore din zi apar spike-urile. <br>
 **13.	Valoarea medie a tranzacțiilor pe țară**: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor. <br>
-**14.	Valoarea medie a tranzacțiilor pe țară**: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor.
+**14.	Distributia medie a tranzacțiilor pe luni**: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor pe luni.
