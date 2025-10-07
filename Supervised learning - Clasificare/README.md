@@ -1,0 +1,1 @@
+Analysis of the dataset "Titanic - Machine Learning from Disaster" (https://www.kaggle.com/competitions/titanic/overview) using the Supervised Learning – Classification method.
