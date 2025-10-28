@@ -10,7 +10,7 @@
 
 🔹  **Supervised Learning – Regression** – Insurance.csv
 
-🔹  **Unsupervised Learning – Clustering** – Mall\_Customers.csv
+🔹  **Unsupervised Learning – Clustering** – Mall_Customers.csv
 
-🔹	**Natural language** – automatic summarization
+🔹	**Natural language – Automatic Summarization**
 
