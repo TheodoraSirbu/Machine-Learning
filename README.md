@@ -12,5 +12,5 @@
 
 🔹  **Unsupervised Learning – Clustering** – Mall\_Customers.csv
 
-🔹	**Natural language** – automatic summarization
+🔹	**Natural language** – Automatic Summarization
 
