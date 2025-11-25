@@ -12,6 +12,6 @@
 
 🔹  **Unsupervised Learning – Clustering** – Mall_Customers.csv
 
-🔹	**Natural language – Automatic Summarization**
+🔹	**Natural Language – Automatic Summarization**
 
 🔹 **Learning Analytics** - Chicago_Crime_Data.csv
