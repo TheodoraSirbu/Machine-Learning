@@ -48,16 +48,15 @@ Grafice generate:
 Fiecare model include:
 - Matrice de confuzie  
 - Classification report (precizie, recall, F1-score)  
-- Accuracy  
-- ROC-AUC  
+- Accuracy   
 
 ---
 
 ## 🥇 Comparare modele
 Acuratețile sunt afișate la final sub formă de listă:
-• Logistic Regression: 0.8668
-• Random Forest: 0.9012
-• GBT: 0.9145
+- Logistic Regression: 0.8668
+- Random Forest: 0.9012
+- GBT: 0.9145
 
 ---
 
