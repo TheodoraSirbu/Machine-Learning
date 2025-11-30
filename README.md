@@ -1,4 +1,4 @@
-# Mini Machine Learning Projects:
+# Machine Learning Projects:
 
 🔹  **Cancer Data** – Learning and training a model to detect cancer types
 
