@@ -1,1 +1,1 @@
-DataSet - CNN-DailyMail News Text Summarization - CNN-DailyMail News Text Summarization
+DataSet - CNN-DailyMail News Text Summarization - https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail?resource=download
